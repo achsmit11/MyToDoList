@@ -27,7 +27,7 @@ Model View View Model (MVVM)
 
 
 # Screen Shots
-https://github.com/achsmit11/MyToDoList
+https://github.com/achsmit11/MyToDoList/tree/master/app/src
 
 # License
 Copyright 2020 Asmit Acharya
